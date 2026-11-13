@@ -1,5 +1,31 @@
 # Wallpaper Collection
 ## Desktop Wallpapers
+<img width="5000" height="2237" alt="wallhaven-lydkg2" src="https://github.com/user-attachments/assets/c67906a3-b098-4941-9152-f2f3a9f103d9" />
+<img width="5000" height="2237" alt="wallhaven-lydkg2 - Copy" src="https://github.com/user-attachments/assets/b88f9866-7978-41de-ad87-5685644f823e" />
+<img width="1920" height="1080" alt="wallhaven-lmx11p" src="https://github.com/user-attachments/assets/e5df97b4-544a-4651-a2ea-215eab3f719d" />
+<img width="1920" height="1080" alt="wallhaven-lmx11p - Copy" src="https://github.com/user-attachments/assets/7b09c4ed-d40b-46aa-bc59-2f59113053c3" />
+<img width="1920" height="1098" alt="907039" src="https://github.com/user-attachments/assets/e39160cd-af1e-4e64-869b-6d8a8def6d0f" />
+<img width="1920" height="1098" alt="907039 - Copy" src="https://github.com/user-attachments/assets/07b9c2dc-e917-4f96-9308-0a716fb5d705" />
+<img width="1920" height="1080" alt="wallpaperswide com-swordsman-wallpaper-1920x1080" src="https://github.com/user-attachments/assets/ea5faef4-4cb8-4149-a0d4-23a9d998f890" />
+<img width="1920" height="1080" alt="wallpaperswide com-swordsman-wallpaper-1920x1080 - Copy" src="https://github.com/user-attachments/assets/16a531f6-4603-4c47-8584-82150730108d" />
+<img width="2560" height="1440" alt="wallpaperswide com-spider-man-far-from-home-fanart-wallpaper-2560x1440" src="https://github.com/user-attachments/assets/7b3c45a9-06ac-4176-b63f-5a656655e661" />
+<img width="2560" height="1440" alt="wallpaperswide com-spider-man-far-from-home-fanart-wallpaper-2560x1440 - Copy" src="https://github.com/user-attachments/assets/4ff4ec07-92bb-4777-a0fb-91ff2ce08f00" />
+<img width="2560" height="1440" alt="wallpaperswide com-nazgul-art-wallpaper-2560x1440" src="https://github.com/user-attachments/assets/7bf886ea-1f07-4c0e-a9e3-ab1f2ec77c69" />
+<img width="2560" height="1440" alt="wallpaperswide com-nazgul-art-wallpaper-2560x1440 - Copy" src="https://github.com/user-attachments/assets/f1fb013f-68aa-4c59-ad3a-bbb76badc01b" />
+<img width="7680" height="4320" alt="1360883" src="https://github.com/user-attachments/assets/3cc96b3d-416e-49a6-861b-c42afb77071f" />
+<img width="7680" height="4320" alt="1360883 - Copy" src="https://github.com/user-attachments/assets/cc7ce805-b743-480b-ab6c-672863a04c2e" />
+<img width="3840" height="2160" alt="1354305" src="https://github.com/user-attachments/assets/31bcde72-1839-4978-8018-41aa112f9d31" />
+<img width="3840" height="2160" alt="1354305 - Copy" src="https://github.com/user-attachments/assets/1e87c408-2c68-4400-982e-1a69a883f285" />
+<img width="2560" height="1440" alt="1353838" src="https://github.com/user-attachments/assets/a88a77ee-3e5f-4ae3-a752-4ce38637af57" />
+<img width="1920" height="1308" alt="672498" src="https://github.com/user-attachments/assets/f19600de-3396-4527-8517-171a38ad83c9" />
+<img width="3840" height="2160" alt="1294983" src="https://github.com/user-attachments/assets/49134413-d8ce-4995-b545-f96968858287" />
+<img width="3547" height="1993" alt="655990" src="https://github.com/user-attachments/assets/15a9ac31-02a4-41b2-aa37-198c88fa25ac" />
+<img width="1920" height="1080" alt="968380" src="https://github.com/user-attachments/assets/278443ba-0eb7-4574-9537-aeefce6cd857" />
+<img width="3840" height="2160" alt="1403028" src="https://github.com/user-attachments/assets/63379748-ac43-4814-8924-f8ab125f16f8" />
+<img width="7680" height="4316" alt="1383037" src="https://github.com/user-attachments/assets/007be3ca-e0a0-49ca-9570-b3e0ee0cc3b4" />
+<img width="2944" height="1648" alt="進め、夏｜Kawaii-Future Garage" src="https://github.com/user-attachments/assets/64865ac2-5a7f-4d60-a709-1497eec5edfc" />
+<img width="5470" height="3066" alt="今日、忘却を洗う｜Ambient Dream Garage Mix" src="https://github.com/user-attachments/assets/d31fa708-7d18-4303-9c18-18642ec035d1" />
+<img width="2730" height="1536" alt="風はまだ覚えている｜The wind still remembers" src="https://github.com/user-attachments/assets/cbf11377-48dc-4e21-84f1-3d957d15c552" />
 <img width="1200" height="675" alt="6bcc492952a2cfd905d9b371fdb4ee50" src="https://github.com/user-attachments/assets/00589d2b-b5f0-4ce1-b849-91b4a0657242" />
 <img width="3840" height="2160" alt="1033740" src="https://github.com/user-attachments/assets/e9192df3-ef4c-4f47-9165-bbaf4c43b271" />
 <img width="2731" height="1536" alt="551098957-3e9e1c05-0c5b-48c3-aa29-b1d2e9bc0248" src="https://github.com/user-attachments/assets/94d62b9f-3d0e-417f-a024-84fbddd45c81" />
@@ -33,6 +59,7 @@
 ##Credits
 Sleepyhey Cat [Github]: https://github.com/SleepyCatHey/CozyPixels/blob/main/Catppuccin/Uncategorized/README.md
 Om Narayan Singh [Google-Drive]: https://drive.google.com/drive/folders/1RoGWDSZyBBUo2pp8E6T-iGxdiveZmRds
+Hushwave.co [Google Drive]: https://drive.google.com/drive/folders/1gh08yz0CNjslXfBep-RP3r1hhILORyWm
 
 
 
