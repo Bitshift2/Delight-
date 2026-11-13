@@ -1,16 +1,10 @@
 # Wallpaper Collection
 ## Desktop Wallpapers
-<img width="5000" height="2237" alt="wallhaven-lydkg2" src="https://github.com/user-attachments/assets/c67906a3-b098-4941-9152-f2f3a9f103d9" />
 <img width="5000" height="2237" alt="wallhaven-lydkg2 - Copy" src="https://github.com/user-attachments/assets/b88f9866-7978-41de-ad87-5685644f823e" />
-<img width="1920" height="1080" alt="wallhaven-lmx11p" src="https://github.com/user-attachments/assets/e5df97b4-544a-4651-a2ea-215eab3f719d" />
 <img width="1920" height="1080" alt="wallhaven-lmx11p - Copy" src="https://github.com/user-attachments/assets/7b09c4ed-d40b-46aa-bc59-2f59113053c3" />
-<img width="1920" height="1098" alt="907039" src="https://github.com/user-attachments/assets/e39160cd-af1e-4e64-869b-6d8a8def6d0f" />
 <img width="1920" height="1098" alt="907039 - Copy" src="https://github.com/user-attachments/assets/07b9c2dc-e917-4f96-9308-0a716fb5d705" />
-<img width="1920" height="1080" alt="wallpaperswide com-swordsman-wallpaper-1920x1080" src="https://github.com/user-attachments/assets/ea5faef4-4cb8-4149-a0d4-23a9d998f890" />
 <img width="1920" height="1080" alt="wallpaperswide com-swordsman-wallpaper-1920x1080 - Copy" src="https://github.com/user-attachments/assets/16a531f6-4603-4c47-8584-82150730108d" />
-<img width="2560" height="1440" alt="wallpaperswide com-spider-man-far-from-home-fanart-wallpaper-2560x1440" src="https://github.com/user-attachments/assets/7b3c45a9-06ac-4176-b63f-5a656655e661" />
 <img width="2560" height="1440" alt="wallpaperswide com-spider-man-far-from-home-fanart-wallpaper-2560x1440 - Copy" src="https://github.com/user-attachments/assets/4ff4ec07-92bb-4777-a0fb-91ff2ce08f00" />
-<img width="2560" height="1440" alt="wallpaperswide com-nazgul-art-wallpaper-2560x1440" src="https://github.com/user-attachments/assets/7bf886ea-1f07-4c0e-a9e3-ab1f2ec77c69" />
 <img width="2560" height="1440" alt="wallpaperswide com-nazgul-art-wallpaper-2560x1440 - Copy" src="https://github.com/user-attachments/assets/f1fb013f-68aa-4c59-ad3a-bbb76badc01b" />
 <img width="7680" height="4320" alt="1360883" src="https://github.com/user-attachments/assets/3cc96b3d-416e-49a6-861b-c42afb77071f" />
 <img width="7680" height="4320" alt="1360883 - Copy" src="https://github.com/user-attachments/assets/cc7ce805-b743-480b-ab6c-672863a04c2e" />
