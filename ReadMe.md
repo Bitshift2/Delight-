@@ -7,7 +7,6 @@
 <img width="2560" height="1440" alt="wallpaperswide com-spider-man-far-from-home-fanart-wallpaper-2560x1440 - Copy" src="https://github.com/user-attachments/assets/4ff4ec07-92bb-4777-a0fb-91ff2ce08f00" />
 <img width="2560" height="1440" alt="wallpaperswide com-nazgul-art-wallpaper-2560x1440 - Copy" src="https://github.com/user-attachments/assets/f1fb013f-68aa-4c59-ad3a-bbb76badc01b" />
 <img width="7680" height="4320" alt="1360883" src="https://github.com/user-attachments/assets/3cc96b3d-416e-49a6-861b-c42afb77071f" />
-<img width="7680" height="4320" alt="1360883 - Copy" src="https://github.com/user-attachments/assets/cc7ce805-b743-480b-ab6c-672863a04c2e" />
 <img width="3840" height="2160" alt="1354305" src="https://github.com/user-attachments/assets/31bcde72-1839-4978-8018-41aa112f9d31" />
 <img width="3840" height="2160" alt="1354305 - Copy" src="https://github.com/user-attachments/assets/1e87c408-2c68-4400-982e-1a69a883f285" />
 <img width="2560" height="1440" alt="1353838" src="https://github.com/user-attachments/assets/a88a77ee-3e5f-4ae3-a752-4ce38637af57" />
